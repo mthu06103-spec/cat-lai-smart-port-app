@@ -1,0 +1,4 @@
+public_html: true
+index.html: true
+.env.local
+.env.*.local
